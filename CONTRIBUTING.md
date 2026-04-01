@@ -17,7 +17,3 @@ Antes de realizar un pull request, asegúrate de haber hecho pruebas:
 
 1. Verificar `README.md`.
 2. Que esté compilado correctamente.
-
----
-
-RECUERDA USARLOS.
