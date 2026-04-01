@@ -1,7 +1,6 @@
 # hyh-6-hyprland
 
-Este es un Proyecto desarrollado en QML/Python enfocado en **Hyprland**.
-Enfocado en una Estetica Minimalista para Hyprland.
+Este es un Proyecto desarrollado en QML/Python enfocado en **Hyprland**. Enfocado en una Estetica Minimalista para Hyprland.
 
 ---
 
