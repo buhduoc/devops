@@ -20,4 +20,4 @@ Antes de realizar un pull request, asegúrate de haber hecho pruebas:
 
 ---
 
-RECUERDA USARLOS
+RECUERDA USARLOS.
