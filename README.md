@@ -9,7 +9,7 @@ Este es un Proyecto desarrollado en QML/Python enfocado en **Hyprland**. Enfocad
 1. **clonar el repositorio**
 2. **Esperar A que se complete la descarga**
 3. **Reiniciar el sistema**
-   
+
 ---
 
 ## Versiones
